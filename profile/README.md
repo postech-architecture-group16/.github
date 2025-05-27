@@ -37,4 +37,4 @@ Ordem de execução:
 
 ### SonarCloud - Cobertura dos testes
 
-![Sonar_1](././assets/sonar.jpg)
+![Sonar_1](.././assets/sonar.jpg)
