@@ -34,3 +34,7 @@ Ordem de execução:
 6. **[Payment-API](https://github.com/postech-architecture-group16/payment-api)**: Microsserviço de gerenciamento de pagamentos.
 7. **[Production-API](https://github.com/postech-architecture-group16/production-api)**: Microsserviço de gerenciamento do fluxo de produção do pedido.
 8. **[Gateway](https://github.com/postech-architecture-group16/api-gateway)** Criação de API Gateway. 
+
+### SonarCloud - Cobertura dos testes
+
+![Sonar_1](./assets/sonar.jpg)
