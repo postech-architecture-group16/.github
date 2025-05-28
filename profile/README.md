@@ -35,6 +35,11 @@ Ordem de execução:
 7. **[Production-API](https://github.com/postech-architecture-group16/production-api)**: Microsserviço de gerenciamento do fluxo de produção do pedido.
 8. **[Gateway](https://github.com/postech-architecture-group16/api-gateway)** Criação de API Gateway. 
 
+### Diagrama - Fluxos
+
+![Sonar_1](.././assets/fiap-module_4.png)
+
+
 ### SonarCloud - Cobertura dos testes
 
 ![Sonar_1](.././assets/sonar.jpg)
